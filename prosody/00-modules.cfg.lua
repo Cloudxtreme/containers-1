@@ -1,0 +1,1 @@
+plugin_paths = { "/usr/lib/prosody-modules/" }
